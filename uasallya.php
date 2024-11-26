@@ -14,6 +14,7 @@
         <hr>
         <h3>Data Penggajihan</h3>
 
+        
         <!-- Form Submission to PHP -->
         <form method="POST">
             <!-- Data Penggajihan -->
